@@ -47,4 +47,5 @@ public class Building {
     public void displayInfo(){
         System.out.println("Nazwa Budynku: "+name+" rok oddania do użytku: "+year+" liczba pięter "+numberOfFloors);
     }
+    
 }
