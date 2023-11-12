@@ -1,1 +1,1 @@
-# zadania-java
+# Zadania-java
